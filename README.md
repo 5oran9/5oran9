@@ -1,16 +1,37 @@
-## Hi there 👋
+# Sorang Kim (5oran9)
 
-<!--
-**5oran9/5oran9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Interactive developer — problem → structure → system
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Key Points
+- End-to-end architecture
+- Clear service structure
+- Fast iteration practice
+
+---
+
+## ⭐ Featured Projects
+### Castaway — Nonverbal emotion care
+> React Native, FastAPI, AI integration
+
+### ZipPT — Housing data insights
+> React, Python/Flask, Data viz
+
+### AI QA Bot & Emergency
+> LLM + RLHF
+
+---
+
+## 🧠 What I Care About
+- Data flow clarity
+- UI <-> Logic separation
+- Practical results
+
+---
+
+## 🔗 Links
+📦 Portfolio site  
+💻 GitHub: https://github.com/5oran9
+✉️ Email: 5oran9@naver.com
+
